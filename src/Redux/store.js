@@ -1,4 +1,3 @@
-// src/redux/store.js
 import { legacy_createStore } from 'redux';
 import reducer from './ProductReducer/reducer';
 
